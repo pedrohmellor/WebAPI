@@ -10,7 +10,7 @@ A API permite cadastrar, editar, excluir e buscar clientes no banco de dados.
 - dotenv
 - Nodemon (para desenvolvimento)
 
-**Instalação 1. Clonar o repositório**
+**Instalação - Clonar o repositório**
 bash
 git clone https://github.com/pedrohmellor/WebAPI.git
 cd WebAPI
